@@ -256,7 +256,7 @@ height: 250px;
 width: auto;
 }
 .footer{
-	background: red;
+	background: brown;
 	padding: 50px 0px;
 
 }
@@ -282,7 +282,7 @@ list-style: none;
 padding-left:50px;
 }
 .Get-in-touch li i{
-color: blue;
+color: indigo;
 font-size: 20px;
 
 }
